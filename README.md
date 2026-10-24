@@ -1,4 +1,4 @@
-# Java Full Stack Development Training 🚀
+# Java Full Stack Development Training
 
 Welcome to my Java Full Stack Development Training repository!
 
@@ -6,11 +6,11 @@ This repository contains the daily classroom codes, practice programs, and assig
 
 I use **Eclipse IDE** to write, execute, and practice Java programs. This repository serves as a collection of my daily learning activities and tracks my progress throughout the training program.
 
-## 🎯 About the Training
+##  About the Training
 
 The training program focuses on strengthening programming fundamentals and developing practical skills in Java and Full Stack Development through classroom sessions, hands-on coding, and assignments.
 
-## 🛠️ Technologies and Tools
+##  Technologies and Tools
 
 - **Programming Language:** Java
 - **IDE:** Eclipse IDE
@@ -42,7 +42,7 @@ TNSIF-Accenture-Java-Full-Stack-Training/
 
 *The folder structure will be updated as new class codes and assignments are added.*
 
-## 📚 Topics Covered
+##  Topics Covered
 
 Topics will be updated regularly as the training progresses.
 
@@ -58,7 +58,7 @@ Topics will be updated regularly as the training progresses.
 - Collections Framework
 - Java Full Stack Development Concepts
 
-## 💻 Development Environment
+##  Development Environment
 
 All Java programs are developed and executed using Eclipse IDE.
 
@@ -70,7 +70,7 @@ To run the programs:
 4. Open the required Java project or source files in Eclipse.
 5. Compile and execute the programs.
 
-## 📌 Purpose of This Repository
+##  Purpose of This Repository
 
 - Maintain a record of daily classroom coding.
 - Practice Java programming concepts through hands-on exercises.
@@ -79,15 +79,15 @@ To run the programs:
 - Revise concepts for assessments and technical interviews.
 - Develop consistent coding habits and improve problem-solving skills.
 
-## 📈 Learning Progress
+##  Learning Progress
 
 This repository will be updated regularly with daily class codes, practice programs, and assignments completed during the training.
 
-## 🙏 Acknowledgement
+##  Acknowledgement
 
 I would like to thank **TNSIF and Accenture** for providing this learning opportunity through their CSR initiative. This training is helping me strengthen my programming fundamentals and build practical skills in Java Full Stack Development.
 
-## 👨‍💻 Author
+##  Author
 
 **Niketh Kammari**
 
