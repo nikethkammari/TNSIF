@@ -95,5 +95,3 @@ I would like to thank **TNSIF and Accenture** for providing this learning opport
 - LinkedIn: [Niketh Kammari](https://www.linkedin.com/in/nikethkammari/)
 
 ---
-
-⭐ *Learning every day, writing code, solving problems, and growing as a developer.*
